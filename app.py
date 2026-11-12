@@ -445,9 +445,9 @@ if st.session_state.screen == 1:
         st.markdown(
             """
             <div class="hero-container">
-                <div class="presenter-pill">UK LM DAIS PRESENTS</div>
+                <div class="presenter-pill">UK LM DAIS</div>
+                <div class="hero-sub">🛸 UFO PRESENTS 🛸</div>
                 <div class="hero-title">FUN FRIDAY</div>
-                <div class="hero-sub">🛸 UFO ARENA 🛸</div>
                 <div class="event-title" style="font-size: clamp(16px, 2vw, 22px); color: #38bdf8; margin-top: 2px;">
                     Debate On Silly Topics
                 </div>
